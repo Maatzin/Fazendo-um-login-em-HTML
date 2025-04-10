@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+
+input, button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    background-color: green;
+    color: white
+    border: none;
+    cursor: pointer;
+}
+
+button:houver {
+    background-color: green;
+}
+
+.site-header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.site-header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.site-header nav ul li a {
+    display: inline;
+    margin: 0 10 px;
+}
+
+.site-header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
+
+.site-footer {
+    background-color: black;
+    color: white
+    text align: center;
+    padding: 15px;
+    position: fixed;
+    button: 0;
+    width: 100%;    
+}
+
+.login-status {
+    text-align: right;
+    margin: right: 20px;
+    color: #fff
+}
+
+#31 {
+    font-size: 14px;
+    color: #4cae4c
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+
+
+
